@@ -1,4 +1,4 @@
-# To-Do-List
+# To-Do-List  ![forthebadge](https://forthebadge.com/images/badges/made-with-Python.svg)
 
 To Do list is a simple web application to save Your daily tasks in order not to miss anything.
 
