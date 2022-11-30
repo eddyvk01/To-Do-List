@@ -3,6 +3,8 @@
 
 To Do list is a simple web application to save Your daily tasks in order not to miss anything. Its Created by using python Django backend
 
+https://user-images.githubusercontent.com/105595540/204772492-209d70f3-fbf2-4340-8bcd-f40610997acf.mp4
+
 PLEASE FEEL FREE TO FORK THE PROJECT AND START CONTRIBUTING. this project is still in devlopment phase :)
 
 ### Features
